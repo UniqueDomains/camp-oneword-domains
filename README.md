@@ -65,7 +65,7 @@ print(df.head())
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
 | whynot.camp      | available | $11.99    | —             | 74             | 39     | 7      | name.com            |
-| web.camp         | resell    | —         | —             | 72             | 61     | 3      | Porkbun LLC         |
+| web.camp         | resell    | —         | —             | 72             | 62     | 3      | Porkbun LLC         |
 | jobs.camp        | premium   | $500      | —             | 79             | 42     | 4      | name.com            |
 | stories.camp     | available | $11.99    | —             | 58             | 36     | 7      | name.com            |
 | homes.camp       | resell    | —         | —             | 86             | 34     | 5      | united-domains GmbH |
