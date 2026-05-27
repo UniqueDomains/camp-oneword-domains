@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .camp one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,996 domains · **Median ask:** $20.45 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/camp`  
 **Best for:** founders, investors, studios
 
@@ -70,20 +70,20 @@ print(df.head())
 | stories.camp     | available | $11.99    | —             | 58             | 36     | 7      | name.com            |
 | homes.camp       | resell    | —         | —             | 86             | 34     | 5      | united-domains GmbH |
 | events.camp      | premium   | $500      | —             | 68             | 37     | 6      | name.com            |
-| etc.camp         | available | $11.99    | —             | 58             | 34     | 3      | name.com            |
+| payments.camp    | available | $11.99    | —             | 58             | 33     | 8      | name.com            |
 | guns.camp        | resell    | —         | —             | 68             | 22     | 4      | Porkbun LLC         |
 | sites.camp       | premium   | $500      | —             | 53             | 26     | 5      | name.com            |
-| payments.camp    | available | $11.99    | —             | 58             | 33     | 8      | name.com            |
-| trailers.camp    | premium   | $242      | $242          | 54             | 15     | 8      | namesilo            |
 | color.camp       | available | $11.99    | —             | 80             | 32     | 5      | name.com            |
-| motorsports.camp | premium   | $250      | —             | 74             | 13     | 11     | name.com            |
+| trailers.camp    | premium   | $242      | $242          | 54             | 15     | 8      | namesilo            |
 | teams.camp       | available | $11.99    | —             | 62             | 32     | 5      | name.com            |
+| motorsports.camp | premium   | $250      | —             | 74             | 13     | 11     | name.com            |
+| etc.camp         | available | $11.99    | —             | 58             | 32     | 3      | name.com            |
 | William.camp     | available | $78.98    | —             | 74             | 31     | 7      | namecheap           |
 | videos.camp      | available | $11.99    | —             | 52             | 30     | 6      | name.com            |
+| gods.camp        | available | $11.99    | —             | 72             | 29     | 4      | name.com            |
 | cams.camp        | available | $11.99    | —             | 52             | 29     | 4      | name.com            |
 | gems.camp        | available | $11.99    | —             | 70             | 28     | 4      | name.com            |
 | forms.camp       | available | $11.99    | —             | 54             | 28     | 5      | name.com            |
-| gods.camp        | available | $11.99    | —             | 72             | 27     | 4      | name.com            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAMP One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAMP One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
