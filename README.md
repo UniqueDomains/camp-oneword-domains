@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .camp one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,996 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,996 domains · **Median ask:** $20.45 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,996 domains · **Median ask:** $17.72 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/camp`  
+**Last updated:** 2026-06-04
+**Canonical page:** `https://unique.domains/domains/tld/camp`
 **Best for:** founders, investors, studios
 
 ---
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| whynot.camp      | available | $11.99    | —             | 74             | 44     | 7      | name.com            |
-| web.camp         | resell    | —         | —             | 72             | 62     | 3      | Porkbun LLC         |
-| jobs.camp        | premium   | $500      | —             | 79             | 42     | 4      | name.com            |
-| stories.camp     | available | $11.99    | —             | 58             | 36     | 7      | name.com            |
-| homes.camp       | resell    | —         | —             | 86             | 34     | 5      | united-domains GmbH |
-| events.camp      | premium   | $500      | —             | 68             | 37     | 6      | name.com            |
-| payments.camp    | available | $11.99    | —             | 58             | 33     | 8      | name.com            |
-| guns.camp        | resell    | —         | —             | 68             | 22     | 4      | Porkbun LLC         |
-| sites.camp       | premium   | $500      | —             | 53             | 26     | 5      | name.com            |
-| color.camp       | available | $11.99    | —             | 80             | 32     | 5      | name.com            |
-| trailers.camp    | premium   | $242      | $242          | 54             | 15     | 8      | namesilo            |
-| teams.camp       | available | $11.99    | —             | 62             | 32     | 5      | name.com            |
-| motorsports.camp | premium   | $250      | —             | 74             | 13     | 11     | name.com            |
-| etc.camp         | available | $11.99    | —             | 58             | 32     | 3      | name.com            |
-| William.camp     | available | $78.98    | —             | 74             | 31     | 7      | namecheap           |
-| videos.camp      | available | $11.99    | —             | 52             | 30     | 6      | name.com            |
-| gods.camp        | available | $11.99    | —             | 72             | 29     | 4      | name.com            |
-| cams.camp        | available | $11.99    | —             | 52             | 29     | 4      | name.com            |
-| gems.camp        | available | $11.99    | —             | 70             | 28     | 4      | name.com            |
-| forms.camp       | available | $11.99    | —             | 54             | 28     | 5      | name.com            |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| yet.camp        | available | $11.99    | —             | 112            | 17     | 3      | name.com        |
+| verify.camp     | available | $11.99    | —             | 80             | 42     | 6      | name.com        |
+| triple.camp     | available | $11.99    | —             | 104            | 22     | 6      | name.com        |
+| built.camp      | available | $11.99    | —             | 103            | 22     | 5      | name.com        |
+| peaking.camp    | available | $11.99    | —             | 88             | 5      | 7      | name.com        |
+| vegetable.camp  | available | $11.99    | —             | 98             | 11     | 9      | name.com        |
+| exactly.camp    | available | $11.99    | —             | 84             | 11     | 7      | name.com        |
+| corporate.camp  | available | $11.99    | —             | 90             | 31     | 9      | name.com        |
+| bow.camp        | available | $11.99    | —             | 80             | 19     | 3      | name.com        |
+| defence.camp    | available | $11.99    | —             | 90             | 22     | 7      | name.com        |
+| sign.camp       | available | $11.99    | —             | 106            | 33     | 4      | name.com        |
+| deputy.camp     | available | $11.99    | —             | 92             | 11     | 6      | name.com        |
+| abortive.camp   | available | $7.99     | $77.99        | 90             | 1      | 8      | name.com        |
+| concern.camp    | available | $11.99    | —             | 86             | 9      | 7      | name.com        |
+| bar.camp        | resell    | —         | —             | 86             | 35     | 3      | Spaceship, Inc. |
+| superstar.camp  | available | $11.99    | $77.99        | 80             | 24     | 9      | name.com        |
+| searching.camp  | available | $11.99    | —             | 84             | 12     | 9      | name.com        |
+| comparable.camp | available | $11.99    | $77.99        | 87             | 5      | 10     | name.com        |
+| two.camp        | available | $11.99    | $77.99        | 80             | 27     | 3      | name.com        |
+| global.camp     | resell    | —         | —             | 108            | 52     | 6      | eNom, LLC       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAMP One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAMP One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
