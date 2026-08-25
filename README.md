@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .camp one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,530 domains · **Median ask:** $15.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/camp`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,9 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| half.camp   | available | $11.99    | —             | high           | low    | 4      | name.com         |
+| just.camp   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
+| heavy.camp  | available | $11.99    | —             | high           | low    | 5      | name.com         |
 | abo.camp    | available | $11.99    | $77.99        | low            | low    | 3      | name.com         |
 | lake.camp   | resell    | $11.99    | —             | high           | low    | 4      | Dynadot Inc      |
 | fast.camp   | premium   | $500      | $500          | high           | medium | 4      | name.com         |
@@ -81,9 +84,6 @@ print(df.head())
 | credit.camp | premium   | $500      | —             | medium         | low    | 6      | name.com         |
 | cup.camp    | available | $11.99    | $77.99        | medium         | low    | 3      | name.com         |
 | cool.camp   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC     |
-| health.camp | premium   | $1,040    | $1,040        | high           | medium | 6      | namecheap        |
-| cxl.camp    | available | $11.99    | $77.99        | low            | low    | 3      | name.com         |
-| goal.camp   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAMP One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAMP One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
