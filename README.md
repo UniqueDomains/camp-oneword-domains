@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .camp one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,659 domains · **Median ask:** $30.09 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/camp`
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | lake.camp   | resell    | $11.99    | —             | high           | low    | 4      | Dynadot Inc      |
 | fast.camp   | premium   | $500      | $500          | high           | medium | 4      | name.com         |
 | add.camp    | available | $11.99    | —             | high           | low    | 3      | name.com         |
-| art.camp    | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
+| art.camp    | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC |
 | guide.camp  | premium   | $500      | —             | high           | low    | 5      | name.com         |
 | bae.camp    | available | $11.99    | —             | high           | low    | 3      | name.com         |
 | bar.camp    | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
@@ -81,7 +81,7 @@ print(df.head())
 | credit.camp | premium   | $500      | —             | medium         | low    | 6      | name.com         |
 | cup.camp    | available | $62.99    | $62.99        | medium         | low    | 3      | namesilo         |
 | goal.camp   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
-| health.camp | premium   | $1,040    | $1,040        | high           | medium | 6      | namecheap        |
+| health.camp | premium   | $1,040    | $1,040        | medium         | low    | 6      | namecheap        |
 | cxl.camp    | available | $11.99    | $77.99        | low            | low    | 3      | name.com         |
 | move.camp   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAMP One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAMP One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
