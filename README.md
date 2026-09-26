@@ -1,10 +1,10 @@
-# Available .CAMP One-Word Domains (31,879)
+# Available .CAMP One-Word Domains (22,074)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C879%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C074%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .camp one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,879 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,074 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,879 domains · **Median ask:** $38.36 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 22,074 domains · **Median ask:** $43.23 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/camp`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| abo.camp    | available | $11.99    | $77.99        | high           | low    | 3      | name.com          |
-| lake.camp   | resell    | $11.99    | —             | high           | low    | 4      | Dynadot Inc       |
-| math.camp   | premium   | $123.75   | —             | high           | medium | 4      | name.com          |
-| add.camp    | available | $11.99    | —             | high           | low    | 3      | name.com          |
-| bar.camp    | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.   |
-| actor.camp  | premium   | $500      | —             | high           | low    | 5      | name.com          |
-| bae.camp    | available | $11.99    | —             | high           | low    | 3      | name.com          |
-| did.camp    | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC      |
-| guide.camp  | premium   | $500      | —             | high           | low    | 5      | name.com          |
-| bed.camp    | available | $62.99    | $62.99        | high           | low    | 3      | namesilo          |
-| hub.camp    | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
-| banner.camp | premium   | $23.60    | $23.60        | high           | low    | 6      | namesilo          |
-| clv.camp    | available | $11.99    | $77.99        | high           | low    | 3      | name.com          |
-| log.camp    | resell    | —         | —             | high           | low    | 3      | Dynadot Inc       |
-| credit.camp | premium   | $500      | —             | high           | low    | 6      | name.com          |
-| clx.camp    | available | $11.99    | $77.99        | high           | low    | 3      | name.com          |
-| call.camp   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
-| guitar.camp | premium   | $123.75   | —             | high           | low    | 6      | name.com          |
-| cxl.camp    | available | $11.99    | $77.99        | high           | low    | 3      | name.com          |
-| care.camp   | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 48 |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| live.camp      | premium   | $500      | $500          | high           | medium | 4      | name.com            |
+| pizza.camp     | premium   | $512      | $512          | high           | medium | 5      | namesilo            |
+| smooth.camp    | available | $65.98    | $78.98        | high           | low    | 6      | namecheap           |
+| homes.camp     | resell    | —         | —             | high           | low    | 5      | united-domains GmbH |
+| sexy.camp      | premium   | $512      | $512          | high           | low    | 4      | namesilo            |
+| final.camp     | available | $11.99    | $77.99        | high           | low    | 5      | name.com            |
+| maid.camp      | available | $65.98    | $78.98        | high           | low    | 4      | namecheap           |
+| composite.camp | available | $65.98    | $78.98        | high           | low    | 9      | namecheap           |
+| return.camp    | available | $65.98    | $78.98        | high           | low    | 6      | namecheap           |
+| shop.camp      | resell    | —         | —             | high           | medium | 4      | Edomains LLC        |
+| cover.camp     | available | $62.99    | $62.99        | high           | low    | 5      | namesilo            |
+| essence.camp   | available | $65.98    | $78.98        | high           | low    | 7      | namecheap           |
+| awaken.camp    | available | $62.99    | $62.99        | high           | low    | 6      | namesilo            |
+| made.camp      | available | $65.98    | $78.98        | high           | medium | 4      | namecheap           |
+| gripping.camp  | available | $62.99    | $62.99        | high           | low    | 8      | namesilo            |
+| adorable.camp  | available | $65.98    | $78.98        | high           | low    | 8      | namecheap           |
+| animal.camp    | resell    | —         | —             | high           | low    | 6      | Dynadot Inc         |
+| howl.camp      | available | $62.99    | $62.99        | high           | low    | 4      | namesilo            |
+| nineteen.camp  | available | $62.99    | $62.99        | high           | low    | 8      | namesilo            |
+| living.camp    | available | $65.98    | $78.98        | high           | low    | 6      | namecheap           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,879 live domains                        |
+| 1,000-row public sample | 22,074 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CAMP One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CAMP One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
