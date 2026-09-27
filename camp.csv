@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 118110b9-32d3-4924-9ead-221f01c0914b,pickaback.camp,available,62.99,62.99,medium,low,9,namesilo,,,15/09/2026 19:48
-ed029f7c-47c8-49b3-b80e-7d9ec655d39d,airport.camp,available,11.99,,high,low,7,name.com,,,
+ed029f7c-47c8-49b3-b80e-7d9ec655d39d,airport.camp,available,65.98,78.98,medium,low,7,namecheap,,,27/09/2026 02:07
 db0c163e-8a58-4b0c-b67e-aecd60fa9aa5,uniformly.camp,available,62.99,62.99,medium,low,9,namesilo,,,16/09/2026 10:05
 5bf3da4d-86ef-4ef3-b4fa-9e65a963a9dd,faux.camp,available,11.99,77.99,high,low,4,name.com,,,18/08/2026 00:12
 0e559a45-7594-4d9a-ae8f-21e2b435b27e,minimized.camp,available,11.99,77.99,medium,low,9,name.com,,,24/08/2026 23:53
@@ -17,7 +17,7 @@ a1a909ba-37be-43bf-b98b-c7cd32bdb571,indecisive.camp,available,11.99,77.99,mediu
 4b1f8a20-e65f-4475-9a87-6707bc805b6e,leaks.camp,available,62.99,62.99,medium,low,5,namesilo,,,18/09/2026 06:46
 ce6cd92a-638e-4f4b-b51e-26458dda8073,impolite.camp,available,11.99,77.99,medium,low,8,name.com,,,21/08/2026 22:43
 2c46fc3b-a72b-433d-a541-18adf338354f,studded.camp,available,62.99,62.99,medium,low,7,namesilo,,,10/09/2026 22:57
-7dffe6cc-3cb8-4481-a2a7-4bafb6bd414f,popular.camp,premium,500,,high,low,7,name.com,,,
+7dffe6cc-3cb8-4481-a2a7-4bafb6bd414f,popular.camp,premium,520,520,high,low,7,namecheap,,,27/09/2026 04:30
 cea8eb87-175f-4908-aa25-0f296b8381a4,undeniably.camp,available,65.98,78.98,medium,low,10,namecheap,,,16/09/2026 09:52
 21788d6a-baa4-4d27-9fc6-26bcd8b6e9ab,sunup.camp,available,62.99,62.99,high,low,5,namesilo,,,11/09/2026 02:09
 33c3d240-1127-4a35-aea1-1db23a70550d,malar.camp,available,11.99,77.99,medium,low,5,name.com,,,13/09/2026 15:43
@@ -50,6 +50,7 @@ c172b3a9-1b7f-47ce-a23e-793812aabfb6,annexation.camp,available,62.99,62.99,mediu
 b6305491-7988-40be-ae3d-354f73ac890e,unalarming.camp,available,62.99,62.99,medium,low,10,namesilo,,,12/09/2026 00:14
 4a58b597-5dc6-4789-b6d3-60433e566e36,scoop.camp,available,62.99,62.99,high,low,5,namesilo,,,19/09/2026 16:31
 7d240fb7-c00f-42b2-acfc-b735b355f08d,borgia.camp,available,65.98,78.98,medium,low,6,namecheap,,,18/09/2026 05:55
+7d809c66-7b3d-4870-a2d2-8055dec56f21,romeo.camp,available,62.99,62.99,high,low,5,namesilo,,,27/09/2026 05:10
 e8411056-c8d1-4818-b42b-02e55aedd627,baseline.camp,available,62.99,62.99,high,low,8,namesilo,,,22/09/2026 10:15
 0ee113f9-3fd3-4cfb-ad5d-bcf43b1b1592,licit.camp,available,11.99,77.99,medium,low,5,name.com,,,23/08/2026 00:58
 1643bf8d-4059-44cd-b12a-610d0cdd9a87,confession.camp,available,11.99,,high,low,10,name.com,,,
@@ -87,6 +88,7 @@ a4192dd0-7b92-43eb-a7a8-a657204948c7,tungsten.camp,available,65.98,78.98,high,lo
 f03c703d-c538-48ef-9b65-a590fa29a72e,nichols.camp,available,62.99,62.99,high,low,7,namesilo,,,25/09/2026 17:20
 04a2e4fe-8f55-4226-8014-20dc8cb24622,dourly.camp,available,62.99,62.99,low,low,6,namesilo,,,14/09/2026 13:56
 5d04cb83-780a-436b-894f-2b3b889c8039,bextra.camp,available,65.98,78.98,medium,low,6,namecheap,,,23/09/2026 12:09
+51971d84-e032-48d2-8958-a21ff66ef6c2,penalty.camp,available,65.98,78.98,high,low,7,namecheap,,,27/09/2026 04:58
 34a77ece-ac28-4353-9c02-129bfc95bfd2,acrobatic.camp,available,11.99,77.99,high,low,9,name.com,,,
 9967cb82-08e6-4e2c-837d-8a5bc1cd3db7,smooth.camp,available,65.98,78.98,high,low,6,namecheap,,,24/09/2026 20:14
 59bf8d68-8155-46fd-bc3a-ba154d26cced,sweetish.camp,available,62.99,62.99,high,low,8,namesilo,,,11/09/2026 05:36
@@ -119,7 +121,7 @@ b4ffdc8c-141d-469d-9ad6-9cc2dc1f52c9,squawky.camp,available,11.99,77.99,low,low,
 6e3fbcd7-574e-4f9d-9e4d-a44e38cf0903,suits.camp,available,62.99,62.99,high,low,5,namesilo,,,18/09/2026 12:41
 a8c6f283-8f9f-4459-a5f6-17e6d1709e43,lordly.camp,available,11.99,77.99,medium,low,6,name.com,,,07/08/2026 17:05
 9ebeefd5-f60e-40a2-8192-1f611b1cae12,sixties.camp,available,62.99,62.99,high,low,7,namesilo,,,16/09/2026 12:11
-3800fd85-c7a2-4ec2-ad7d-505bfd219f81,comfort.camp,resell,,,high,low,7,,,,24/09/2026 16:25
+3800fd85-c7a2-4ec2-ad7d-505bfd219f81,comfort.camp,resell,,,high,low,7,Dynadot Inc,22/01/2026 17:00,22/01/2027 17:00,26/09/2026 05:08
 22d8cd85-1864-4b92-b9ad-ff99557df98b,congruous.camp,available,11.99,77.99,high,low,9,name.com,,,12/08/2026 21:56
 20c20e3d-38fc-4fe6-b691-75f718048b36,truncate.camp,available,62.99,62.99,high,low,8,namesilo,,,11/09/2026 20:40
 6f3dd355-3df7-4f16-8f9f-c87505536322,ropeway.camp,available,65.98,78.98,high,low,7,namecheap,,,17/09/2026 12:50
@@ -173,13 +175,15 @@ bdc6835d-8b52-4126-91c9-240e6aeef44b,bookworm.camp,available,62.99,62.99,high,lo
 436798d9-5a29-4c2a-920a-1adb5d3f6fc3,sizable.camp,available,11.99,77.99,high,low,7,name.com,,,20/08/2026 16:38
 9fd39621-4280-4a2d-be57-641d2feadca8,opposing.camp,available,62.99,62.99,high,low,8,namesilo,,,04/09/2026 16:38
 a5248da9-5dad-4eae-ae81-c246d7eaaad0,infrequent.camp,available,11.99,77.99,medium,low,10,name.com,,,22/08/2026 04:50
+5732f3ba-9dac-4bf0-a625-cc4ecc9e6eb5,josiah.camp,available,11.99,77.99,medium,low,6,name.com,,,27/09/2026 01:34
 645f4df8-ad9f-4d4f-a964-6530999748f0,expose.camp,available,11.99,,high,low,6,name.com,,,
 49f26b98-4789-4ae0-9ff0-17fd7ded0f18,serially.camp,available,62.99,62.99,medium,low,8,namesilo,,,16/09/2026 01:08
 996b1885-b2e4-4c72-adde-d4511f9293fe,eliot.camp,available,65.98,78.98,high,low,5,namecheap,,,25/09/2026 05:27
 96e9e91a-a255-4b92-893f-86aa8d8de4c4,composite.camp,available,65.98,78.98,high,low,9,namecheap,,,23/09/2026 17:39
 cbce3430-36a4-447f-afd6-03e28440b48c,debut.camp,available,65.98,78.98,high,low,5,namecheap,,,24/09/2026 21:09
 ac20b04b-69a8-42c3-83a1-bbd039d503eb,buttonwood.camp,available,11.99,77.99,high,low,10,name.com,,,18/09/2026 20:34
-05f810c7-0f5a-48ce-86e6-f26f0e9e5ccc,eagle.camp,resell,,,high,low,5,,,,23/09/2026 20:02
+05f810c7-0f5a-48ce-86e6-f26f0e9e5ccc,eagle.camp,resell,,,high,low,5,"Sav.com, LLC - 14",26/07/2026 15:15,26/07/2027 15:15,26/09/2026 05:43
+a9cf88c2-c5ba-4c2b-8d49-74b2adf8c0b7,rossi.camp,available,62.99,62.99,high,low,5,namesilo,,,27/09/2026 01:41
 a342826b-75d2-4ccf-b211-c194cea8e748,dent.camp,available,62.99,62.99,high,low,4,namesilo,,,24/09/2026 21:54
 2708d094-65ea-45ac-b439-22dcda396dfa,sterling.camp,available,65.98,78.98,high,low,8,namecheap,,,10/09/2026 20:14
 637fdd5d-e294-43e3-9d27-cee65b99fdf9,celery.camp,available,62.99,62.99,high,low,6,namesilo,,,19/09/2026 17:33
@@ -208,7 +212,7 @@ d49e17d6-2fd4-439c-846d-c3a20aff88bc,tests.camp,available,62.99,62.99,medium,low
 317b7b05-0f36-4684-9a8c-686cbfe0e369,downstairs.camp,available,11.99,77.99,high,low,10,name.com,,,14/08/2026 17:55
 23d32c40-d2ec-471d-a236-814115b66cbb,barytes.camp,available,62.99,62.99,medium,low,7,namesilo,,,22/09/2026 06:13
 0e4f8a18-d18b-4128-820d-e53e5baff294,unstuck.camp,available,62.99,62.99,high,low,7,namesilo,,,12/09/2026 20:40
-3c00a9dd-d73a-4ad0-a6cf-0b469a2bba8f,pump.camp,resell,,,high,medium,4,,,,25/09/2026 10:10
+3c00a9dd-d73a-4ad0-a6cf-0b469a2bba8f,pump.camp,resell,,,high,medium,4,Dynadot Inc,13/02/2026 17:00,13/02/2027 17:00,26/09/2026 08:25
 f1159f0b-4891-49f3-b24d-7ff090525400,unshaven.camp,available,62.99,62.99,medium,low,8,namesilo,,,12/09/2026 19:40
 666773e0-c064-4323-9082-ea26442125c9,dysprosium.camp,available,62.99,62.99,medium,low,10,namesilo,,,20/09/2026 23:28
 0333d0ab-ca5d-4a52-87de-0a70e7a397e6,fevered.camp,available,11.99,77.99,medium,low,7,name.com,,,18/08/2026 03:07
@@ -243,7 +247,7 @@ f542d204-7475-4cfd-ac33-6a81a047cff7,picket.camp,available,62.99,62.99,high,low,
 003e5f49-37db-414e-b704-0f5599351c3b,cadaverous.camp,available,11.99,77.99,medium,low,10,name.com,,,10/08/2026 18:51
 b6e28f3c-68f2-4fa1-bf9d-52b8313af2db,animosity.camp,available,62.99,62.99,medium,low,9,namesilo,,,19/09/2026 09:20
 e6aa146d-1cc1-4be4-b840-c68d858eafed,ridicule.camp,available,62.99,62.99,high,low,8,namesilo,,,24/09/2026 02:25
-45777632-f90e-45e9-a8d9-9593446e63f1,homes.camp,resell,,,high,low,5,united-domains GmbH,06/09/2016 14:19,06/09/2027 14:19,19/09/2026 21:49
+45777632-f90e-45e9-a8d9-9593446e63f1,homes.camp,resell,,,high,low,5,united-domains GmbH,06/09/2016 14:19,06/09/2027 14:19,27/09/2026 06:57
 1712c998-7ff2-4570-a66c-ec3d1550c8f4,nautical.camp,available,11.99,77.99,high,low,8,name.com,,,24/08/2026 15:58
 a9238ea5-a99a-446d-b4e1-bcb95e901f12,ascensive.camp,available,11.99,77.99,medium,low,9,name.com,,,07/08/2026 00:46
 b5cae2e0-421f-4c91-84f3-e1080a9ff08d,sexy.camp,premium,512,512,high,low,4,namesilo,,,22/09/2026 07:13
@@ -256,6 +260,7 @@ dd17de16-6fe0-4414-940f-d89bb05d06f9,engorge.camp,available,62.99,62.99,medium,l
 b8ab08fa-492e-4d42-bd5c-1e2681406aef,bathos.camp,available,62.99,62.99,medium,low,6,namesilo,,,22/09/2026 13:49
 854dfbed-a50d-445b-b103-165a076b6fd5,nestling.camp,available,11.99,77.99,high,low,8,name.com,,,25/08/2026 00:18
 4ff6448b-2f3d-4844-973c-14162c2a4ac5,unstained.camp,available,65.98,78.98,medium,low,9,namecheap,,,10/09/2026 18:17
+54c59950-420b-4e58-958d-4dc514c30ec6,hesse.camp,available,65.98,78.98,high,low,5,namecheap,,,27/09/2026 04:26
 170f810d-837f-4ef6-9584-f26cccd571a0,avocet.camp,available,62.99,62.99,medium,low,6,namesilo,,,21/09/2026 09:44
 9f70614e-62ce-4ad2-9a35-20a53a50ddcf,avocation.camp,available,62.99,62.99,high,low,9,namesilo,,,21/09/2026 09:37
 20d87e32-8ce3-4222-a633-82e5e9cbefdc,eligible.camp,available,11.99,77.99,high,low,8,name.com,,,16/08/2026 04:35
@@ -271,6 +276,7 @@ ee73553b-b27b-4b68-ab01-572f6a3f1537,lucrative.camp,available,62.99,62.99,high,l
 3c4899a6-c21d-4c6d-8abb-f67da5926b4f,chard.camp,available,62.99,62.99,medium,low,5,namesilo,,,23/09/2026 10:59
 a0c542c4-af85-41cd-a0ff-006c25440abb,gripping.camp,available,62.99,62.99,high,low,8,namesilo,,,21/09/2026 15:05
 8320900f-4251-40bd-a03f-96c1ff8f6a9e,conditions.camp,available,11.99,,high,low,10,name.com,,,
+b39be7a8-452e-4b0e-a130-e1c08bf1b386,huntsville.camp,available,62.99,62.99,high,low,10,namesilo,,,27/09/2026 04:30
 d6bf2248-1725-41ed-9e74-1d4c3f2fc586,selective.camp,available,62.99,62.99,high,low,9,namesilo,,,10/09/2026 01:58
 06a58798-f2a8-4129-a692-5bbba45c93ad,prisoners.camp,available,65.98,78.98,medium,low,9,namecheap,,,25/09/2026 20:27
 fa13b64a-8a8a-4777-8dcc-5e5d466b989d,return.camp,available,65.98,78.98,high,low,6,namecheap,,,19/09/2026 03:27
@@ -321,6 +327,7 @@ b4e5e598-a908-4a11-bd2f-af58585f60f9,immutably.camp,available,11.99,77.99,medium
 980b8acd-cf2a-435b-b4f1-7d5c34fd2bb4,teutonic.camp,available,62.99,62.99,medium,low,8,namesilo,,,11/09/2026 12:13
 dad0a642-8294-4349-b003-d017ee63bc96,scarred.camp,available,62.99,62.99,medium,low,7,namesilo,,,25/09/2026 17:02
 23b69c23-03bf-45cf-b970-30015248c134,banksia.camp,available,65.98,78.98,high,low,7,namecheap,,,22/09/2026 02:53
+be50f99d-60b8-4f78-9638-079ed1c4e4b4,paintings.camp,available,62.99,62.99,high,low,9,namesilo,,,27/09/2026 03:04
 c1889619-312a-4f40-9b1d-a92711feee90,caloric.camp,available,11.99,77.99,medium,low,7,name.com,,,11/08/2026 15:07
 4f2a3730-9f3d-46a7-801b-77b0cc0e1edc,jinxed.camp,available,11.99,77.99,medium,low,6,name.com,,,21/08/2026 07:53
 b1b0368c-2159-4d7b-bf95-8609c9e8b51d,jordanian.camp,available,11.99,77.99,high,low,9,name.com,,,22/08/2026 14:01
@@ -365,6 +372,7 @@ f392a1b9-39a8-402a-82a8-2371d0e03448,passim.camp,available,65.98,78.98,high,low,
 f08fec72-4507-46d5-8554-2c38eedde2ce,handicap.camp,available,62.99,62.99,high,low,8,namesilo,,,24/09/2026 07:39
 6b121095-20f3-4a4c-be3b-ec92def9932c,bevy.camp,available,62.99,62.99,medium,low,4,namesilo,,,23/09/2026 12:05
 3688c481-2b59-4105-9a6b-4a3aea18ad7c,upc.camp,available,11.99,,high,low,3,name.com,,,
+41d00655-2899-42b8-a529-63b0055c21f4,misery.camp,available,62.99,62.99,medium,low,6,namesilo,,,27/09/2026 04:46
 c4340247-cd87-4b5e-912d-d69fcea8ea45,elaborate.camp,available,62.99,62.99,high,low,9,namesilo,,,24/09/2026 07:12
 e3ceb0e0-1ccc-4f02-9036-6ac13539eab2,brachial.camp,available,11.99,77.99,medium,low,8,name.com,,,11/08/2026 00:19
 2cd8b854-7aeb-4976-add4-c35ab4cd9194,shoe.camp,available,11.99,,high,low,4,name.com,,,
@@ -403,10 +411,10 @@ defe6990-12fa-45bf-8930-1ea4f4d1b235,suspend.camp,available,11.99,,high,low,7,na
 2bde084c-7e94-4dfe-98e9-739a10d5ca8d,dslr.camp,available,11.99,,high,low,4,name.com,,,
 411e6a62-b0df-4d39-b185-0913e7de2ea2,tendency.camp,available,11.99,77.99,high,low,8,name.com,,,22/08/2026 22:11
 5290ddd2-f99e-4056-9366-3726b73b63b9,suspension.camp,available,11.99,,high,low,10,name.com,,,
-b97c702e-ae79-4359-8410-706b869ff8e2,shop.camp,resell,,,high,medium,4,Edomains LLC,19/01/2025 15:15,19/01/2027 15:15,24/09/2026 21:43
+b97c702e-ae79-4359-8410-706b869ff8e2,shop.camp,resell,,,high,medium,4,Edomains LLC,19/01/2025 15:15,19/01/2027 15:15,26/09/2026 08:59
 b1513344-2174-4746-9c71-a8949f123aad,mri.camp,available,62.99,62.99,high,low,3,namesilo,,,25/09/2026 23:30
 5ad5ed0c-1eb2-4f52-bf8e-c94a1cc22a12,unstylish.camp,available,62.99,62.99,medium,low,9,namesilo,,,10/09/2026 23:17
-9596d03f-7245-48d1-9c70-72a3f19f3f87,designers.camp,available,62.99,62.99,high,low,9,namesilo,,,19/09/2026 23:31
+9596d03f-7245-48d1-9c70-72a3f19f3f87,designers.camp,available,62.99,62.99,high,low,9,namesilo,,,27/09/2026 02:12
 047f6e00-a9e9-4f18-8bfd-6e2604377ed6,avalanche.camp,available,62.99,62.99,high,low,9,namesilo,,,21/09/2026 08:38
 f3d8baad-562e-440e-a8ba-78b4548337fd,abm.camp,available,62.99,62.99,high,low,3,namesilo,,,16/09/2026 16:15
 58f797ad-c6c0-4b40-b063-8133655bfb86,wired.camp,available,11.99,,high,low,5,name.com,,,
@@ -432,6 +440,7 @@ e07a29be-e836-4d7b-80bf-e186a632fb2d,baronage.camp,available,62.99,62.99,medium,
 c84eb4d7-387f-4ee0-a1b9-703c19da4776,dwarf.camp,available,11.99,77.99,medium,low,5,name.com,,,24/08/2026 22:31
 cd2edf8e-5bc2-4727-9ce0-7d56bca59f84,barberry.camp,available,65.98,78.98,medium,low,8,namecheap,,,22/09/2026 04:51
 07393409-a0da-4aa5-9235-4fb276fbbccd,acetal.camp,available,62.99,62.99,medium,low,6,namesilo,,,16/09/2026 23:47
+09cb0445-b32d-4e41-bc5a-f351bcaed94b,laughs.camp,available,65.98,78.98,medium,low,6,namecheap,,,27/09/2026 03:15
 f892f637-cc61-4b43-9de3-fd2793b91958,complaints.camp,available,62.99,62.99,medium,low,10,namesilo,,,18/09/2026 03:41
 20f2d103-ac51-4692-bf6e-7f152d9eff37,stoker.camp,available,62.99,62.99,medium,low,6,namesilo,,,16/09/2026 16:53
 5a3b2663-0bae-421a-9542-3457c21f06cc,chaff.camp,available,11.99,77.99,medium,low,5,name.com,,,22/08/2026 13:50
@@ -509,6 +518,7 @@ bddc6c7e-2e65-4f24-8d02-82a85abe41f9,extropic.camp,available,11.99,77.99,medium,
 547133a7-1229-4c32-b219-3c480e77e5e2,assignment.camp,available,65.98,78.98,high,low,10,namecheap,,,19/09/2026 21:59
 df97b7fd-7739-4c34-bee2-fb5f1248bd06,baraka.camp,available,65.98,78.98,high,low,6,namecheap,,,22/09/2026 04:07
 adb55976-b985-4c2d-8470-ad51198094c7,weil.camp,available,65.98,78.98,medium,low,4,namecheap,,,19/09/2026 04:20
+a13b83a5-0c45-40b5-bb39-22231ad5744e,susquehanna.camp,available,62.99,62.99,medium,low,11,namesilo,,,27/09/2026 01:59
 0e8f4281-7019-4520-9ac3-222c309365b8,stand.camp,available,11.99,,high,low,5,name.com,,,
 17dfeba3-0bce-4393-95cb-a0d791ae3b1b,exhausting.camp,available,11.99,77.99,medium,low,10,name.com,,,14/08/2026 18:21
 0a31dc98-e23f-4905-a91f-aa18a558753d,amatory.camp,available,11.99,77.99,medium,low,7,name.com,,,
@@ -521,7 +531,7 @@ f723430e-4649-42a2-9f5d-10e5ccfec2aa,fugacious.camp,available,11.99,77.99,medium
 d7e17be1-c368-4c30-8b3e-737243709d9d,unparallel.camp,available,62.99,62.99,medium,low,10,namesilo,,,12/09/2026 16:27
 cf26bbd7-2e61-4018-8476-0a0e5ce3ac9e,made.camp,available,65.98,78.98,high,medium,4,namecheap,,,25/09/2026 16:01
 607244ef-4bd6-436c-9cc1-668aad2ef158,reports.camp,available,65.98,78.98,high,low,7,namecheap,,,18/09/2026 16:26
-dd4368fd-c327-437d-bcfc-70f64233909a,animal.camp,resell,,,high,low,6,Dynadot Inc,26/08/2026 17:00,26/08/2027 17:00,08/09/2026 11:39
+dd4368fd-c327-437d-bcfc-70f64233909a,animal.camp,resell,,,high,low,6,Dynadot Inc,26/08/2026 17:00,26/08/2027 17:00,26/09/2026 03:53
 1050000a-5fdc-4b87-9bac-7a8cb84c7ad1,blacktop.camp,available,62.99,62.99,medium,low,8,namesilo,,,24/09/2026 03:24
 a81d9c4d-e1fa-4e1a-b78b-b5b7ef13f538,tatty.camp,available,11.99,77.99,medium,low,5,name.com,,,18/08/2026 06:42
 b1ae1727-5d5a-4633-a92c-6bd60c984dd6,pedant.camp,available,62.99,62.99,medium,low,6,namesilo,,,09/09/2026 23:15
@@ -575,7 +585,7 @@ bd8fb6c9-9edf-427a-be8d-f41046030a78,queens.camp,available,11.99,,high,low,6,nam
 205ee0cd-443c-422c-b40d-b41b588fa3df,artificer.camp,available,62.99,62.99,high,low,9,namesilo,,,20/09/2026 11:38
 33566d6c-21c0-48d3-8a7c-fe779c6998eb,realized.camp,available,62.99,62.99,high,low,8,namesilo,,,23/09/2026 17:28
 a5982a50-1398-4411-bc38-d2481938156c,completing.camp,available,62.99,62.99,high,low,10,namesilo,,,23/09/2026 17:20
-22270e44-1744-42ed-90d1-4f09cd1956fc,core.camp,resell,,,high,medium,4,Dynadot Inc,24/01/2026 17:00,24/01/2027 17:00,
+22270e44-1744-42ed-90d1-4f09cd1956fc,core.camp,resell,,,high,medium,4,Dynadot Inc,24/01/2026 17:00,24/01/2027 17:00,26/09/2026 05:15
 a787c9a7-22f2-43d1-9508-4dae16f51918,aquatic.camp,available,11.99,77.99,high,low,7,name.com,,,06/08/2026 10:45
 9264f6ad-9f60-47ce-8686-ad8161fb7004,friends.camp,available,,,high,medium,7,,,,
 7d513bb4-b867-48c4-9d74-b20a9d3441b4,warring.camp,available,62.99,62.99,medium,low,7,namesilo,,,13/09/2026 08:11
@@ -596,6 +606,7 @@ ff16d2a3-eb3f-4ca2-9cd9-a485c28f1627,lingually.camp,available,62.99,62.99,medium
 83983680-4462-4bdf-96a3-1d58e3571f84,earful.camp,available,62.99,62.99,medium,low,6,namesilo,,,22/09/2026 17:11
 bf1feb28-ee1c-43e7-a1d4-96915eb94197,erectile.camp,available,11.99,77.99,medium,low,8,name.com,,,17/08/2026 12:07
 e167e61f-b49e-4530-8fca-76cc31c02c9c,allie.camp,available,62.99,62.99,high,low,5,namesilo,,,17/09/2026 22:42
+2a9cd651-1831-4934-9057-8768a6de64da,mcdonnell.camp,available,62.99,62.99,medium,low,9,namesilo,,,27/09/2026 02:55
 e196b70a-c997-4b06-b0ff-63221372de40,dreamless.camp,available,11.99,77.99,medium,low,9,name.com,,,14/08/2026 18:43
 8487fce9-3fa3-497f-a9b5-dc3bc9a26ce3,dismay.camp,available,11.99,,high,low,6,name.com,,,
 f08f1510-26be-49b9-b000-63ca81eec185,newbie.camp,available,65.98,78.98,high,low,6,namecheap,,,24/09/2026 19:51
@@ -609,6 +620,7 @@ c3c4d0f7-704a-49eb-bd4f-b5918280b246,admiralty.camp,available,62.99,62.99,medium
 a7dd8bc7-f9d1-4c9e-8c8e-b14a47ea6b2f,haunting.camp,available,11.99,77.99,medium,low,8,name.com,,,21/08/2026 01:34
 a760c4ab-2af1-491a-ae81-0630495ea624,humpback.camp,available,11.99,77.99,medium,low,8,name.com,,,13/08/2026 07:47
 335a54c5-c714-424f-bf38-dad9bed2786a,changer.camp,available,65.98,78.98,high,low,7,namecheap,,,21/09/2026 05:31
+32cadeed-bccf-4f42-9903-fe0ba86b9569,val.camp,available,62.99,62.99,high,low,3,namesilo,,,27/09/2026 06:29
 8b348364-d861-482e-a576-5b902da0ff1e,orangutan.camp,available,11.99,,high,low,9,name.com,,,
 6f6007f7-b68c-43cc-b9dd-082c8bfa7985,guidance.camp,available,62.99,62.99,high,low,8,namesilo,,,24/09/2026 02:39
 8b1638de-d077-4e06-a233-f2beb1a02dac,bends.camp,available,65.98,78.98,high,low,5,namecheap,,,23/09/2026 07:50
@@ -627,7 +639,7 @@ ee77c922-a3d0-49f6-b1ae-e0f45ac64957,beldam.camp,available,62.99,62.99,medium,lo
 9eb7c810-fd33-498f-b3f7-448f8c0ad013,signed.camp,available,11.99,77.99,high,low,6,name.com,,,18/08/2026 22:58
 a58229f8-c8df-4b86-b249-78733b618265,abatis.camp,available,62.99,62.99,medium,low,6,namesilo,,,16/09/2026 14:12
 8a46a90e-29e0-4262-8cc9-7f4026dc6c7e,collegiate.camp,available,11.99,77.99,high,low,10,name.com,,,12/08/2026 17:08
-22c3bca3-dba2-4680-b0b7-fd0cbc4cce16,motivate.camp,available,11.99,,high,low,8,name.com,,,
+22c3bca3-dba2-4680-b0b7-fd0cbc4cce16,motivate.camp,available,62.99,62.99,high,low,8,namesilo,,,27/09/2026 07:34
 e5980f75-1276-410d-9ebe-2892e0cab809,shuttered.camp,available,11.99,77.99,medium,low,9,name.com,,,10/09/2026 07:21
 dcbef37f-eefa-473f-8b23-3eec90c6edc8,hem.camp,available,65.98,78.98,high,low,3,namecheap,,,17/09/2026 20:18
 e45b8168-d635-4b73-810c-d02102a0e8e9,marihuana.camp,available,11.99,,high,low,9,name.com,,,
@@ -663,6 +675,7 @@ c81b5d2d-5291-4f1e-a167-cc4d47184e6c,scots.camp,available,62.99,62.99,high,low,5
 5ae55119-ff89-4c17-9a73-30ad938435d0,overstatement.camp,available,11.99,,medium,low,13,name.com,,,
 8d8a7eef-f8dd-41a0-a256-90c81f24ffda,detestable.camp,available,11.99,77.99,medium,low,10,name.com,,,
 ddcec8da-69d1-484f-9b1b-422cdff94164,estival.camp,available,11.99,77.99,medium,low,7,name.com,,,
+317e3545-cc32-4057-a859-8d482a658ede,spots.camp,available,62.99,62.99,high,low,5,namesilo,,,27/09/2026 04:00
 c5137922-edb6-4885-a936-da95fcdd9ac1,unobvious.camp,available,62.99,62.99,medium,low,9,namesilo,,,12/09/2026 16:07
 39c98c50-6d56-4f6a-8660-6ae05b0bb133,futile.camp,available,62.99,62.99,medium,low,6,namesilo,,,22/09/2026 23:49
 718c950d-5808-4144-b324-9190c0792a5a,gradually.camp,available,62.99,62.99,high,low,9,namesilo,,,14/09/2026 22:00
@@ -680,6 +693,7 @@ c1057006-59ba-4cd7-acbf-3cf6fb859c91,steroids.camp,available,65.98,78.98,medium,
 65c29215-b182-4eb7-96f3-ea310ecdeeec,clamp.camp,available,62.99,62.99,high,low,5,namesilo,,,24/09/2026 15:19
 22e47ec3-18b7-43f0-a715-bfaf4d725ddc,twelfth.camp,available,11.99,77.99,high,low,7,name.com,,,
 fef4f2de-0ab6-44c4-b468-a83c4c36d14d,unlike.camp,available,11.99,,high,low,6,name.com,,,
+ae1e9660-a15a-4894-8579-f2f366c6fdd3,elena.camp,available,62.99,62.99,high,low,5,namesilo,,,27/09/2026 03:02
 4bf18033-8e0e-4ee2-ae89-3f71c71e8109,plaguey.camp,available,11.99,77.99,medium,low,7,name.com,,,
 7a7f4efc-97fd-4bc2-a4b2-38edde308c80,proximate.camp,available,62.99,62.99,high,low,9,namesilo,,,09/09/2026 04:46
 51d64f7d-2546-480f-8244-281bb7ae3b56,recessions.camp,available,62.99,62.99,low,low,10,namesilo,,,21/09/2026 06:29
@@ -747,12 +761,14 @@ f1e42370-f86e-4284-adb1-eacb3e2db5ff,abaxial.camp,available,11.99,77.99,medium,l
 2feed523-2637-4b30-8ce6-d193fab3627b,unblinking.camp,available,62.99,62.99,medium,low,10,namesilo,,,12/09/2026 02:16
 7c341501-5355-48ed-958c-f976dab6ae4c,dominion.camp,available,62.99,62.99,high,low,8,namesilo,,,24/09/2026 23:09
 391c6a85-e2a0-4d28-8342-afb7a2559411,defiantly.camp,available,62.99,62.99,medium,low,9,namesilo,,,14/09/2026 08:33
-f05128c4-19e4-4f37-8d66-64d19d01958c,quest.camp,resell,,,high,medium,5,"Sav.com, LLC - 13",24/06/2026 15:15,24/06/2027 15:15,25/09/2026 13:16
+f05128c4-19e4-4f37-8d66-64d19d01958c,quest.camp,resell,,,high,medium,5,"Sav.com, LLC - 13",24/06/2026 15:15,24/06/2027 15:15,26/09/2026 08:27
 1a5ab76e-3f14-4793-8cab-88f45b6c9ea9,boats.camp,available,65.98,78.98,high,low,5,namecheap,,,17/09/2026 16:33
 a182fc2f-1361-407a-a5f7-a4d7d7048ab1,afford.camp,available,62.99,62.99,high,low,6,namesilo,,,25/09/2026 11:07
 ceed7e85-6894-438e-a685-a5e1f355f1b5,beecher.camp,available,62.99,62.99,medium,low,7,namesilo,,,23/09/2026 00:12
+884537f0-e4b8-4e94-8f09-d3ac9f83e2cf,rockwell.camp,available,65.98,78.98,high,low,8,namecheap,,,27/09/2026 04:54
 dcc28a06-6bbc-4601-847c-95b7410cd6b2,odorous.camp,available,62.99,62.99,medium,low,7,namesilo,,,04/09/2026 00:54
 4ac65d1d-f09e-4eb6-907b-8cf07aa89c5d,monitoring.camp,available,11.99,,high,low,10,name.com,,,
+10dacabb-b4b7-42c1-967f-a49ab5648e43,tattoo.camp,available,62.99,62.99,high,low,6,namesilo,,,27/09/2026 05:36
 a5d97c07-0cc5-49b7-a2ef-ab039398e4f0,kestrel.camp,available,65.98,78.98,high,low,7,namecheap,,,18/09/2026 20:14
 14043221-118c-4f51-a2ef-e1a49a67db90,pluton.camp,available,62.99,62.99,medium,low,6,namesilo,,,22/09/2026 13:46
 2289e43a-15cc-4ff4-b77b-1d8f05faccb4,velvety.camp,available,62.99,62.99,high,low,7,namesilo,,,13/09/2026 02:00
@@ -779,6 +795,7 @@ a045ee3f-907c-4f88-8db0-3dbf3c95d97c,partizan.camp,available,62.99,62.99,high,lo
 591840d5-d59b-44ac-8f52-7020680f08b7,unbent.camp,available,62.99,62.99,medium,low,6,namesilo,,,12/09/2026 01:50
 28c11236-dd81-42a5-a46d-db3a7234bcc1,possibility.camp,available,65.98,78.98,high,low,11,namecheap,,,25/09/2026 16:40
 aa23d4e9-717f-450f-b3b9-8d05fe7cdd47,lie.camp,available,11.99,,high,low,3,name.com,,,
+2392ce01-0fe0-4380-81d7-88b1b6862cb5,len.camp,available,62.99,62.99,medium,low,3,namesilo,,,27/09/2026 01:38
 4a909318-b196-46ca-bbd3-2d9c5ebf9188,atheism.camp,available,65.98,78.98,high,low,7,namecheap,,,20/09/2026 20:31
 5e7929d4-1c5a-468b-ae58-16c01ff281cd,establishments.camp,available,11.99,,low,low,14,name.com,,,
 2147bf29-c5a7-4b31-9f3d-4755e83e9206,ungraded.camp,available,11.99,77.99,medium,low,8,name.com,,,14/08/2026 09:06
@@ -810,13 +827,13 @@ af48b65c-fac1-4b71-88aa-79c8913354a3,failure.camp,available,62.99,62.99,high,low
 b0844c8f-a403-4ba1-b76e-07b42618caa2,reversive.camp,available,62.99,62.99,medium,low,9,namesilo,,,09/09/2026 16:11
 e7de13f6-1ee6-413b-8538-379a1a4caf2f,autogenous.camp,available,11.99,77.99,medium,low,10,name.com,,,07/08/2026 20:16
 85518fd1-7157-4855-91a0-19dcf7209a9c,anticipated.camp,available,11.99,77.99,high,low,11,name.com,,,08/09/2026 14:34
-37a584e5-0afc-4801-b221-106532948c8e,airplane.camp,available,11.99,,high,low,8,name.com,,,
+37a584e5-0afc-4801-b221-106532948c8e,airplane.camp,available,65.98,78.98,high,low,8,namecheap,,,27/09/2026 04:01
 0fd1405b-f28b-4529-94f5-84246164f88d,foreigner.camp,available,11.99,77.99,high,low,9,name.com,,,
 f069c78d-3b31-4549-852e-9ddac8c9d861,dabbled.camp,available,11.99,77.99,high,low,7,name.com,,,13/08/2026 15:12
 3e3b1cb4-df27-4019-9769-19beab4c8526,gladys.camp,available,62.99,62.99,medium,low,6,namesilo,,,26/09/2026 03:41
 70bae6f9-5354-4aed-87d4-a7b30ea94d5a,quadruple.camp,available,11.99,77.99,high,low,9,name.com,,,18/08/2026 13:24
 f7fdb819-b02f-4f89-bef2-c11a9ba1c018,spellbound.camp,available,11.99,77.99,high,low,10,name.com,,,17/08/2026 22:54
-ac05a253-cd26-4fc0-bf68-a53bcdfeb88f,pale.camp,available,11.99,,high,low,4,name.com,,,
+ac05a253-cd26-4fc0-bf68-a53bcdfeb88f,pale.camp,available,62.99,62.99,high,low,4,namesilo,,,27/09/2026 02:35
 fa0b6bbd-9b69-4597-b325-8daae9cb94b4,astrantia.camp,available,62.99,62.99,medium,low,9,namesilo,,,20/09/2026 17:32
 5a67be97-5f13-41e8-9899-93c7c1b60cac,empiric.camp,available,11.99,77.99,high,low,7,name.com,,,16/08/2026 18:19
 a26828a7-24db-4b42-ace8-43f7623ae4cb,swain.camp,available,62.99,62.99,high,low,5,namesilo,,,22/09/2026 21:56
@@ -829,6 +846,7 @@ a26828a7-24db-4b42-ace8-43f7623ae4cb,swain.camp,available,62.99,62.99,high,low,5
 f31f6f1d-6c1f-4366-bd8d-f22960583085,finding.camp,available,11.99,77.99,high,low,7,name.com,,,19/09/2026 14:57
 9718749a-9e9e-4a28-9bb1-47dbc83168ed,aether.camp,available,62.99,62.99,high,medium,6,namesilo,,,17/09/2026 13:40
 625c7719-088c-4402-bd3a-814fb3b138b6,zdv.camp,available,62.99,62.99,medium,low,3,namesilo,,,21/09/2026 11:32
+9535108e-151d-44c0-b157-9c9d2a28b950,celebrating.camp,available,62.99,62.99,high,low,11,namesilo,,,27/09/2026 06:50
 8ae29cc5-794b-4988-9ab4-fd6112d49271,inhabited.camp,available,11.99,77.99,high,low,9,name.com,,,22/08/2026 04:59
 884b972f-2392-421b-bc3c-409ff6bf770c,choler.camp,available,62.99,62.99,medium,low,6,namesilo,,,19/09/2026 06:04
 6fce1765-6e70-4713-87ce-fb844f38dcc1,actinium.camp,available,65.98,78.98,medium,low,8,namecheap,,,16/09/2026 19:56
@@ -911,7 +929,7 @@ eec57d71-166b-4e88-9f6f-b58ec276bcc0,fatso.camp,available,11.99,77.99,medium,low
 36c4892d-0241-4481-be31-41f41b445cae,speedy.camp,available,65.98,78.98,high,low,6,namecheap,,,09/09/2026 08:40
 af54c490-ace7-49a9-9462-e73b3295cd65,secondly.camp,available,11.99,,medium,low,8,name.com,,,
 f2ff97e5-8630-499f-a36c-edf177fba1ba,abuja.camp,available,11.99,77.99,medium,low,5,name.com,,,16/09/2026 18:50
-91cd65f3-014a-4fbf-b8b6-f8274bf266eb,reality.camp,resell,,,high,low,7,,,,26/09/2026 00:09
+91cd65f3-014a-4fbf-b8b6-f8274bf266eb,reality.camp,resell,,,high,low,7,"Sav.com, LLC - 2",17/11/2025 15:15,17/11/2026 15:15,26/09/2026 08:31
 4b95c90e-1c1e-4464-9283-edaa008192c1,agra.camp,available,65.98,78.98,high,low,4,namecheap,,,17/09/2026 19:09
 8b6fba17-550b-425a-b517-7f28d696a8f5,buccal.camp,available,11.99,77.99,medium,low,6,name.com,,,11/08/2026 07:27
 33eacb98-14b9-4fe4-8395-64c369487700,bruckner.camp,available,62.99,62.99,medium,low,8,namesilo,,,19/09/2026 15:26
@@ -928,13 +946,13 @@ b087a980-672d-47f2-8c95-e9ef9274ad84,elastic.camp,available,11.99,77.99,high,low
 7fb1ea73-8f6b-4cbf-a3ee-08d1b1ef0b95,aerator.camp,available,62.99,62.99,medium,low,7,namesilo,,,17/09/2026 12:47
 0325b20c-20f8-49bb-a6f7-821d27f28de3,octad.camp,available,11.99,77.99,medium,low,5,name.com,,,
 1aa021fb-daa5-4584-a792-8f2b581dd2bd,onto.camp,available,11.99,,high,low,4,name.com,,,
-4a591e10-703f-4659-9569-88a9bfe744c4,minecraft.camp,available,,,high,high,9,,,,
 fbfd4f78-60e1-424a-aae4-4431b2a72937,employer.camp,available,11.99,,high,low,8,name.com,,,
 a0418833-fb6e-431a-aa2f-96d596b06779,yellow.camp,available,62.99,62.99,high,medium,6,namesilo,,,23/09/2026 14:15
 7545689b-490a-47e3-95ee-68903a36f4d4,into.camp,available,11.99,,high,low,4,name.com,,,
 1f936738-1f23-448f-b492-2600165756ac,footloose.camp,available,11.99,77.99,high,low,9,name.com,,,18/08/2026 10:46
 3c52429e-b608-4e13-a773-c12f16d54a1e,jan.camp,available,11.99,,high,low,3,name.com,,,
 d9598f4e-44f8-4de4-95db-d777c9e8f35f,venushair.camp,available,65.98,78.98,medium,low,9,namecheap,,,17/09/2026 08:07
+be91784a-9c32-4a39-b215-a55b14d9902e,orr.camp,available,62.99,62.99,high,low,3,namesilo,,,27/09/2026 03:21
 8c759629-fb45-41d4-8fad-ca59537490c4,aeolian.camp,available,11.99,77.99,medium,low,7,name.com,,,
 a8b9709a-331a-4164-809e-3f90078e06eb,automobile.camp,available,11.99,,high,low,10,name.com,,,
 986e33f9-2fb5-485d-9ed3-79b029b2cae5,observable.camp,available,62.99,62.99,high,low,10,namesilo,,,03/09/2026 23:59
@@ -981,21 +999,3 @@ ddd97c9a-d783-4665-9b36-30af25399d68,thanks.camp,available,11.99,,high,low,6,nam
 f2d06569-0619-49f4-bf50-c2c6503c3f74,walters.camp,available,62.99,62.99,high,low,7,namesilo,,,25/09/2026 15:56
 b630ba93-ba1d-41c1-b0d0-9cd0fd95d0b0,aisle.camp,available,62.99,62.99,high,low,5,namesilo,,,17/09/2026 23:28
 cbefa900-9351-47c3-9698-0b96cfca7c3b,genovese.camp,available,11.99,77.99,high,low,8,name.com,,,18/08/2026 21:49
-37255631-739e-4723-934e-6b74f6992bad,punch.camp,available,65.98,78.98,high,low,5,namecheap,,,25/09/2026 13:14
-ea129b94-92a4-46ea-aaa4-7cbfdb1e9e29,lifted.camp,available,11.99,77.99,high,low,6,name.com,,,23/08/2026 02:39
-6c005b6d-3b02-435a-9215-02f73c31327c,differently.camp,available,62.99,62.99,medium,low,11,namesilo,,,26/09/2026 03:11
-1a527a78-39c1-45dc-9ab8-04f46b15a6dd,knowingly.camp,available,62.99,62.99,high,low,9,namesilo,,,15/09/2026 10:35
-6ad9dc01-87b2-4ef8-b996-85bda3379d27,braggart.camp,available,11.99,77.99,medium,low,8,name.com,,,11/08/2026 01:16
-d73390b7-e6ef-4903-87a8-94c82a9f8f71,teachable.camp,available,62.99,62.99,high,low,9,namesilo,,,11/09/2026 09:34
-b9181f14-865a-4e9d-a4a1-352138b7b07b,few.camp,available,62.99,62.99,high,low,3,namesilo,,,24/09/2026 17:38
-cc8fb915-5e22-4fe3-aad7-e588bdbea688,feverish.camp,available,11.99,77.99,medium,low,8,name.com,,,18/08/2026 00:29
-c4fc0f27-1689-4b11-af04-04e95ad80c1c,aalii.camp,available,62.99,62.99,medium,low,5,namesilo,,,16/09/2026 13:12
-e8f8e224-fa93-41d0-bed1-34d49a7def66,lusaka.camp,available,62.99,62.99,medium,low,6,namesilo,,,24/09/2026 12:35
-e543a27d-2310-4002-ac19-43d0cf6902bd,dryers.camp,available,62.99,62.99,medium,low,6,namesilo,,,21/09/2026 07:40
-c1002e88-0a16-4348-b7d3-560fb317dce8,deep.camp,resell,,,high,medium,4,"Sav.com, LLC",28/03/2026 01:50,28/03/2027 01:50,21/09/2026 15:15
-28fb89bb-dabd-45c2-92f4-b2a41a1f1d27,mutagenic.camp,available,62.99,62.99,medium,low,9,namesilo,,,03/09/2026 11:37
-9245031c-cf96-4b00-8688-60a29393a060,hoot.camp,available,11.99,77.99,high,low,4,name.com,,,13/08/2026 16:12
-80c91640-35bf-4ca1-a33c-ac7f4d9b8a5e,servile.camp,available,62.99,62.99,medium,low,7,namesilo,,,10/09/2026 04:55
-7cfc7876-bebd-4dd4-9779-e7a8ef8b1d19,diffident.camp,available,11.99,77.99,medium,low,9,name.com,,,14/08/2026 07:01
-efbd461f-ab4a-45a5-9f33-9eeb0f7a0d1c,agency.camp,premium,520,520,high,medium,6,namecheap,,,17/09/2026 16:59
-20bff301-d5af-4386-8d53-43a51803d95b,lucidly.camp,available,62.99,62.99,medium,low,7,namesilo,,,15/09/2026 12:12
